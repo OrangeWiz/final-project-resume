@@ -1,6 +1,6 @@
 # final-project-resume
 
-This is my senior year web design project to showcase my adept HTML and CSS fundamentals
+This is my senior year web design project to showcase my HTML and CSS fundamentals
 
 This website is designed to be responsive and prioritizes mobile users, so make sure you view the webpage at different widths to understand how the elements dynamically shift around!
 
